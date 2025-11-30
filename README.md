@@ -59,7 +59,8 @@ Number-theoretic proofs justify why cryptographic functions work, e.g., proving 
 **Responsible**: Balseit Yeldana
 
 **Tool Selected:** Quizizz 
-**Link**:
+
+**Link**: [Try it here](https://wayground.com/admin/quiz/692c7c68e31aea6e8a2f3aa4)
 
 **Type of Game:** Puzzle / Competition
 
