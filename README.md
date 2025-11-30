@@ -2,8 +2,10 @@
 
 
 ## **Exercise 1 – Complexity Quest: Notations & Functions**
+**Responsible**: Ruiz bobadilla Paloma
 
 **Tool Selected:** Kahoot!
+**Link**:
 
 **Type of Game:** Competition / Quick-Fire Challenge
 
@@ -32,8 +34,10 @@ Understanding notation, functions, and complexity classes helps reason about whi
 ---
 
 ## **Exercise 2 – Miro Quest: Proof Adventures**
+**Responsible**: Orynbassar Abylaikhan
 
 **Tool Selected:** Miro
+**Link**:
 
 **Type of Game:** Educational RPG / Quest Game
 
@@ -52,8 +56,10 @@ Number-theoretic proofs justify why cryptographic functions work, e.g., proving 
 
 ---
 ## **Exercise 3 – Number Theory Treasure Hunt**
+**Responsible**: Balseit Yeldana
 
 **Tool Selected:** Quizizz 
+**Link**:
 
 **Type of Game:** Puzzle / Competition
 
@@ -67,9 +73,8 @@ Students navigate a sequence of puzzles related to number theory, unlocking “t
 **Stages:**
 
 * Stage 1 – Prime Numbers & Divisibility
-* Stage 2 – Modular Arithmetic & Congruences
-* Stage 3 – GCD & LCM, Euclidean Algorithm
-* Stage 4 – Simple Proof Concepts
+* Stage 2 – GCD & LCM, Euclidean Algorithm
+* Stage 3 – Simple Proof Concepts
 
 **Extra Features:**
 
