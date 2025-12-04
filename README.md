@@ -6,7 +6,7 @@
 
 **Tool Selected:** Kahoot!
 
-**Link**: Tap here! [https://create.kahoot.it/share/conceptos-clave/ac6ed7af-4d7b-46c0-810b-9e5fd5c31c7d]
+**Link**: [Tap here!](https://create.kahoot.it/share/conceptos-clave/ac6ed7af-4d7b-46c0-810b-9e5fd5c31c7d)
 
 **Type of Game:** Competition
 
