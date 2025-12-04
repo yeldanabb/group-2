@@ -31,6 +31,7 @@ Understanding notation, functions, and complexity classes helps reason about whi
 **Responsible**: Orynbassar Abylaikhan
 
 **Tool Selected:** Miro
+
 **Link**: [Press here](https://miro.com/app/live-embed/uXjVJgaK9mU=/?embedMode=view_only_without_ui&moveToViewport=-404875%2C-311164%2C682800%2C330000&embedId=838382727951)
 
 **Type of Game:** Educational RPG / Quest Game
