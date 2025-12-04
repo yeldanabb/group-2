@@ -5,22 +5,16 @@
 **Responsible**: Ruiz bobadilla Paloma
 
 **Tool Selected:** Kahoot!
-**Link**:
 
-**Type of Game:** Competition / Quick-Fire Challenge
+**Link**: Tap here! [https://create.kahoot.it/share/conceptos-clave/ac6ed7af-4d7b-46c0-810b-9e5fd5c31c7d]
 
-* Fast-paced multiple-choice or True/False questions under a timer.
+**Type of Game:** Competition
+
+* Fast-paced multiple-choice questions under a timer.
 * Leaderboard scoring motivates accuracy.
 
 **General Idea:**
 Students “level up” by answering questions on set notation, function types, and basic complexity theory.
-
-**Levels:**
-
-* Level 1 – Sets & Notations
-* Level 2 – Functions & Inverses
-* Level 3 – Complexity Theory Basics
-* Level 4 – Complexity Classes
 
 **Extra Features:**
 
